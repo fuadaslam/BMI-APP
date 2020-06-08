@@ -1,0 +1,6 @@
+# Referenced at D:\fletter examples\BMI-Calculator-Flutter-Completed\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:24
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\fletter examples\BMI-Calculator-Flutter-Completed\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:29
+-keep class co.appbrewery.bmicalculator.MainActivity { <init>(); }
+# Referenced at D:\fletter examples\BMI-Calculator-Flutter-Completed\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:24
+-keep class io.flutter.app.FlutterApplication { <init>(); }
